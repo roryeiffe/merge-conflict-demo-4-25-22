@@ -1,1 +1,3 @@
 Trying to make a merge conflict happen
+My name is Garfield.
+new line
