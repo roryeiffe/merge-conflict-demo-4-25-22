@@ -1,2 +1,2 @@
-My name is Garfield.
-new line
+Trying to make merge conflict from garfield branch
+
